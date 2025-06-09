@@ -3,7 +3,7 @@
 🎯 I'm a QA Engineer passionate about clean tests and smooth user experiences!  
 🧪 I test Web, Mobile & APIs with tools like Selenium, Postman, and JMeter.  
 🔁 Currently exploring performance testing and automating everything testable.  
-📌 ISTQB Certified • 3+ years of experience • Loves teaching and learning!
+📌 ISTQB Certified 
 
 ---
 
